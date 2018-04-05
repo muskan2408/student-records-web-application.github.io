@@ -1,0 +1,26 @@
+SMAP
+InsertStudent_jsp.java
+JSP
+*S JSP
+*F
++ 0 InsertStudent.jsp
+InsertStudent.jsp
++ 1 record.jsp
+record.jsp
+*L
+5,5:51
+9,2:55
+11:57,12
+11:63
+12:64,3
+13:69
+14:70,12
+14:76
+15:77,3
+16:82
+1#1,5:83
+5,397:88
+17#0,429:485
+475,36:944
+510,5:980
+*E
